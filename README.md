@@ -12,7 +12,7 @@
 
 *DURATION*: 4 Weeks (14th August 2025 – 14th September 2025)
 
-*MENTOR* Neela Santosh
+*MENTOR*: Neela Santosh
 
 
 As part of my internship with CodTech IT Solutions Pvt. Ltd., I was assigned the task of building an Interactive Quiz Application under the domain of Frontend Web Development. The aim of this project was to design and develop a responsive and user-friendly web application that allows users to attempt quizzes, receive instant feedback, and track their scores in real-time. This project helped me gain hands-on experience with HTML, CSS, and JavaScript, while also improving my problem-solving and design skills.

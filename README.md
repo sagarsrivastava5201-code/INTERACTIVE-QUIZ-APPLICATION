@@ -30,4 +30,6 @@ During development, I faced some challenges such as implementing real-time feedb
 In conclusion, this Interactive Quiz Application was a valuable project that gave me real-world exposure to frontend web development. It strengthened my skills in HTML, CSS, and JavaScript and taught me how to convert ideas into a working product. Completing this task as part of my internship not only boosted my confidence but also motivated me to explore more advanced topics like API integration, timers, and local storage for future projects.
 
 
+#OUTPUT
 
+<img width="1827" height="871" alt="Image" src="https://github.com/user-attachments/assets/5a1adad3-4c84-44db-b1c1-2e77e41496ea" />
